@@ -4,10 +4,17 @@ namespace ChrisHalbert\Json\Values;
 
 use ChrisHalbert\Json\Exceptions\InvalidArgument;
 
-class String
+/**
+ * Class StringObj
+ * @package ChrisHalbert\Json\Values
+ */
+class Str extends AbstractValue
 {
-    private $value;
-
+    /**
+     * StringObj constructor.
+     * @param string $value A string.
+     * @throws InvalidArgument If the value is not a string.
+     */
     public function __construct($value)
     {
         if (!is_string($value)) {
