@@ -2,7 +2,7 @@
   "name": "chrishalbert/json-object",
   "type": "library",
   "description": "Php implementation of json",
-  "license": "BSD3-clause",
+  "license": "BSD-3-Clause",
   "keywords": ["php", "json", "json object", "ecma"],
   "authors": [
     {
