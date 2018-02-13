@@ -23,12 +23,4 @@ class Arr extends AbstractValue
 
         $this->value = $value;
     }
-
-    /**
-     * @return string
-     */
-    public function __toString()
-    {
-        return json_encode($this->value);
-    }
 }
