@@ -1,5 +1,6 @@
 # json-object
 [![Build Status](https://travis-ci.org/chrishalbert/json-object.svg?branch=master)](https://travis-ci.org/chrishalbert/json-object)
+[![Coverage Status](https://coveralls.io/repos/github/chrishalbert/json-object/badge.svg?branch=master)](https://coveralls.io/github/chrishalbert/json-object?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/chrishalbert/json-object/version)](https://packagist.org/packages/chrishalbert/json-object)
 [![License](https://poser.pugx.org/chrishalbert/json-object/license)](https://packagist.org/packages/chrishalbert/json-object)
 
